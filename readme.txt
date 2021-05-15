@@ -1,4 +1,4 @@
-Don't delete any file or you will corrupt
+Don't delete any file or you will corrupt the program
 
 Version Beta i will completely change this software for the future
 
